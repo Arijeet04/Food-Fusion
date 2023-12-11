@@ -13,13 +13,13 @@ Food Fusion is a comprehensive food application that offers a wide range of func
 
 ## Screenshots
 
-<img src="Screenshots/SplashScreen.jpeg" alt="Splash Screen" width=100px>
-<img src="Screenshots/Drawer.jpeg" alt="Drawer" width=100px>
-<img src="Screenshots/Homepage.jpeg" alt="HomePage" width=100px>
-<img src="Screenshots/History.jpeg" alt="History" width=100px>
-<img src="Screenshots/Login.jpeg" alt="Login" width=100px>
-<img src="Screenshots/ForgetPassword.jpeg" alt="Forget Password" width=100px>
-<img src="Screenshots/Register.jpeg" alt="Registeration" width=100px>
+<img src="SplashScreen.jpeg" alt="Splash Screen" width=100px>
+<img src="Drawer.png" alt="Drawer" width=100px>
+<img src="Homepage.jpeg" alt="HomePage" width=100px>
+<img src="History.jpeg" alt="History" width=100px>
+<img src="Login.jpeg" alt="Login" width=100px>
+<img src="ForgetPassword.jpeg" alt="Forget Password" width=100px>
+<img src="Register.jpeg" alt="Registeration" width=100px>
 
 ## Installation
 
