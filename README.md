@@ -10,7 +10,7 @@ Food Fusion is a comprehensive food application that offers a wide range of func
 - **Restaurant Recommendations**: Discover nearby restaurants based on your location, cuisine preferences, and user ratings.
 - **User Profiles**: Create and manage your personal profile, save favorite recipes, and track your cooking journey.
 - **Social Sharing**: Share your favorite recipes, meal plans, and restaurant experiences with friends and family through integrated social media platforms.
-
+                                
 ## Screenshots
 
 <img src="SplashScreen.jpeg" alt="Splash Screen" width=100px>
