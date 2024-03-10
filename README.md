@@ -3,7 +3,6 @@
 Food Fusion is a comprehensive food application that offers a wide range of functionalities to enhance your culinary experience. From exploring recipes to meal planning and discovering new restaurants, Food Fusion is your one-stop solution for all things food-related. This README file provides an overview of the app and guides you on how to set it up and get started.
 
 ## Features
-
 - **Recipe Search**: Browse through an extensive collection of recipes, search by ingredients, or explore popular categories.
 - **Meal Planning**: Plan your meals for the week with a user-friendly meal planner and create customized menus.
 - **Grocery List**: Automatically generate a shopping list based on your selected recipes and easily manage your grocery needs.
